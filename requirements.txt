@@ -1,6 +1,7 @@
 streamlit
 openai
 python-dotenv
+flask
 streamlit>=1.25.0
 openai>=1.0.0
 python-dotenv
